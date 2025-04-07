@@ -1,0 +1,102 @@
+{
+  "response": {
+    "friends": {
+      "count": 3,
+      "items": [
+        {
+          "id": 123456,
+          "first_name": "Иван",
+          "last_name": "Петров",
+          "photo_100": "https://example.com/images/user123456.jpg",
+          "online": 1
+        },
+        {
+          "id": 654321,
+          "first_name": "Мария",
+          "last_name": "Сидорова",
+          "photo_100": "https://example.com/images/user654321.jpg",
+          "online": 0
+        },
+        {
+          "id": 987654,
+          "first_name": "Алексей",
+          "last_name": "Иванов",
+          "photo_100": "https://example.com/images/user987654.jpg",
+          "online": 1
+        }
+      ]
+    },
+    "photos": {
+      "count": 2,
+      "items": [
+        {
+          "id": 111222,
+          "album_id": -6,
+          "owner_id": 123456,
+          "sizes": [
+            {
+              "type": "m",
+              "url": "https://example.com/photos/photo1_m.jpg",
+              "width": 130,
+              "height": 97
+            },
+            {
+              "type": "x",
+              "url": "https://example.com/photos/photo1_x.jpg",
+              "width": 604,
+              "height": 453
+            }
+          ],
+          "text": "Мое фото на море",
+          "date": 1672531200,
+          "likes": {
+            "count": 15
+          }
+        },
+        {
+          "id": 333444,
+          "album_id": -6,
+          "owner_id": 123456,
+          "sizes": [
+            {
+              "type": "m",
+              "url": "https://example.com/photos/photo2_m.jpg",
+              "width": 130,
+              "height": 87
+            },
+            {
+              "type": "x",
+              "url": "https://example.com/photos/photo2_x.jpg",
+              "width": 607,
+              "height": 404
+            }
+          ],
+          "text": "С друзьями",
+          "date": 1672617600,
+          "likes": {
+            "count": 28
+          }
+        }
+      ]
+    },
+    "groups": {
+      "count": 2,
+      "items": [
+        {
+          "id": 12345,
+          "name": "Программирование на Swift",
+          "screen_name": "swiftdev",
+          "photo_100": "https://example.com/groups/swiftdev.jpg",
+          "members_count": 12500
+        },
+        {
+          "id": 54321,
+          "name": "Путешествия по миру",
+          "screen_name": "travelworld",
+          "photo_100": "https://example.com/groups/travelworld.jpg",
+          "members_count": 87600
+        }
+      ]
+    }
+  }
+}
