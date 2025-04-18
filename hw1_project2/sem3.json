@@ -1,5 +1,4 @@
 {
-  "response": {
     "friends": {
       "count": 3,
       "items": [
@@ -98,5 +97,4 @@
         }
       ]
     }
-  }
 }
