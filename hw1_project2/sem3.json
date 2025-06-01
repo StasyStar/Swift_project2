@@ -43,7 +43,7 @@
       },
       {
         "id": 111223,
-        "album_id": -6,
+        "album_id": 6,
         "owner_id": 123456,
         "url": "https://i.pinimg.com/736x/38/6c/7d/386c7da15b89b1c71d9e26298ff89318.jpg",
         "width": 736,
@@ -56,7 +56,7 @@
       },
       {
         "id": 333444,
-        "album_id": -6,
+        "album_id": 7,
         "owner_id": 123456,
         "url": "https://avatars.mds.yandex.net/i?id=c51ac365905d73e8c8ce956a06c04b35_l-4119103-images-thumbs&n=13",
         "width": 1024,
@@ -69,9 +69,9 @@
       },
       {
         "id": 333445,
-        "album_id": -6,
+        "album_id": 8,
         "owner_id": 123456,
-        "url": "https://i.pinimg.com/736x/93/0c/bd/930cbdf70f530ec19b672dee9b58db21.jpg",
+        "url": "https://i.ytimg.com/vi/ImAjEzfC8mo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgXShFMA8=&rs=AOn4CLDCKeKlpCZzBZv_6A-3T4Ujgoe7GA",
         "width": 1280,
         "height": 720,
         "text": "Тру-лу-лу",
