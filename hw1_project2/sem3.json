@@ -22,6 +22,13 @@
         "last_name": "Иванов",
         "photo_100": "https://example.com/images/user987654.jpg",
         "online": 1
+      },
+      {
+        "id": 987655,
+        "first_name": "Анастасия",
+        "last_name": "Григорьева",
+        "photo_100": "https://example.com/images/user987655.jpg",
+        "online": 0
       }
     ]
   },
@@ -98,6 +105,13 @@
         "screen_name": "travelworld",
         "photo_100": "https://example.com/groups/travelworld.jpg",
         "members_count": 87600
+      },
+      {
+        "id": 54322,
+        "name": "Сноубординг",
+        "screen_name": "snowboarding",
+        "photo_100": "https://example.com/groups/snowboarding.jpg",
+        "members_count": 8301
       }
     ]
   }
