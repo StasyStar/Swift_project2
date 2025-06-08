@@ -4,31 +4,24 @@
     "items": [
       {
         "id": 123456,
-        "first_name": "Иван",
+        "first_name": "Бо",
         "last_name": "Петров",
-        "photo_100": "https://example.com/images/user123456.jpg",
+        "photo_100": "https://i.pinimg.com/736x/2a/f2/8a/2af28a618550df602088e66d150d9be4.jpg",
         "online": 1
       },
       {
         "id": 654321,
-        "first_name": "Мария",
+        "first_name": "Сторми",
         "last_name": "Сидорова",
-        "photo_100": "https://example.com/images/user654321.jpg",
+        "photo_100": "https://media.tenor.com/blbhSlTS0UYAAAAe/pusheen-cats.png",
         "online": 0
       },
       {
         "id": 987654,
-        "first_name": "Алексей",
+        "first_name": "Ленивец",
         "last_name": "Иванов",
-        "photo_100": "https://example.com/images/user987654.jpg",
+        "photo_100": "https://wallpapers.com/images/hd/cartoon-sloth-holding-ice-cream-xjqofwe2fg0q18sj.png",
         "online": 1
-      },
-      {
-        "id": 987655,
-        "first_name": "Анастасия",
-        "last_name": "Григорьева",
-        "photo_100": "https://example.com/images/user987655.jpg",
-        "online": 0
       }
     ]
   },
